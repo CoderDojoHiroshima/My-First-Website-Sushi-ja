@@ -8,4 +8,4 @@ inkscape 0.91
 <https://inkscape.org/en/release/0.91/platforms/>
 
 League Gothic  
-<https://typekit.com/fonts/league-gothic>
+<https://www.fontsquirrel.com/fonts/league-gothic>
