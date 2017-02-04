@@ -9,3 +9,6 @@ inkscape 0.91
 
 League Gothic  
 <https://www.fontsquirrel.com/fonts/league-gothic>
+
+IPAフォント  
+<http://forest.watch.impress.co.jp/library/software/ipafont/>
