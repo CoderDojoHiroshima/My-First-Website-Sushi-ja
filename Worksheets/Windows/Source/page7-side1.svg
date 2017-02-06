@@ -100,14 +100,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
+     inkscape:window-width="1463"
+     inkscape:window-height="851"
      id="namedview4101"
      showgrid="false"
      inkscape:zoom="0.99"
-     inkscape:cx="410.28165"
-     inkscape:cy="594.52288"
-     inkscape:window-x="1358"
+     inkscape:cx="499.94338"
+     inkscape:cy="262.53601"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g4107" /><g
@@ -119,7 +119,7 @@
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path4109"
        inkscape:connector-curvature="0" /><path
-       d="m 66.185757,460.75652 -17.9752,0 0,17.9752 17.9752,0 0,-17.9752 z"
+       d="m 66.185757,451.15652 -17.9752,0 0,17.9752 17.9752,0 0,-17.9752 z"
        style="fill:#2c9cfb;fill-opacity:0.98431373;fill-rule:nonzero;stroke:none"
        id="path4111"
        inkscape:connector-curvature="0" /><g
@@ -169,13 +169,13 @@
 <text
        transform="scale(1,-1)"
        id="text4141"
-       x="377.84302"
+       x="390.64307"
        y="-745.50616"><tspan
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:'League Gothic';-inkscape-font-specification:LeagueGothic;writing-mode:lr-tb;fill:#2c9cfb;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;writing-mode:lr-tb;fill:#2c9cfb;fill-opacity:1;fill-rule:nonzero;stroke:none"
          sodipodi:role="line"
          id="tspan4143"
-         x="377.84302"
-         y="-745.50616">STYLE THE MENU LINKS</tspan></text>
+         x="390.64307"
+         y="-745.50616">メニューリンク</tspan></text>
 <text
        transform="scale(1,-1)"
        id="text4145"
@@ -204,10 +204,10 @@
        transform="scale(1,-1)"
        id="text4161"
        x="56.056271"
-       y="-463.85559"><tspan
+       y="-454.25555"><tspan
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'League Gothic';-inkscape-font-specification:LeagueGothic;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="56.056271"
-         y="-463.85559"
+         y="-454.25555"
          id="tspan4163">1</tspan></text>
 <path
        d="m 0,808.565 144.353,0 0,33.324 -144.353,0 0,-33.324 z"
@@ -228,13 +228,15 @@
        d="m 0,10.652 595.281,0 0,3.432 -595.281,0 0,-3.432 z"
        style="fill:#2c9cfb;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path4237" /><text
-       transform="matrix(1,0,0,-1,226.1895,790.229)"
-       id="text4251"><tspan
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:League Gothic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28;writing-mode:lr;-inkscape-font-specification:LeagueGothic"
-         x="0 13.552 23.128 27.44 35.868 41.132 51.24 60.844 69.692 74.004 88.172 96.768 106.96 116.564 121.828 130.676"
-         y="0"
+       transform="scale(1,-1)"
+       id="text4251"
+       x="163.99959"
+       y="-791.02087"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:IPAGothic;-inkscape-font-specification:IPAGothic;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          sodipodi:role="line"
-         id="tspan4253">MY FIRST WEBSITE</tspan></text>
+         id="tspan4253"
+         x="163.99959"
+         y="-791.02087">はじめてのWebサイト</tspan></text>
 <g
        id="g4275"
        transform="translate(-21.395349,13.432558)"><g
@@ -286,11 +288,11 @@
            x="136.36363"
            y="354.38275" /></flowRegion><flowPara
          id="flowPara12454"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.75px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1">To style to your links like those above you’ll need to edit the HTML files and the CSS file.</flowPara></flowRoot><flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1">上の図のように変更するには、HTMLとCSSのファイルを書き換えます。</flowPara></flowRoot><flowRoot
        xml:space="preserve"
        id="flowRoot12456"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.75px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.8,0,0,-0.8,-2.8282828,839.86979)"><flowRegion
+       transform="matrix(0.8,0,0,-0.8,-2.8282828,830.26979)"><flowRegion
          id="flowRegion12458"><rect
            id="rect12460"
            width="605.05048"
@@ -298,31 +300,31 @@
            x="92.929291"
            y="450.34235" /></flowRegion><flowPara
          id="flowPara12466"
-         style="fill:#58595b;fill-opacity:1">In each of your HTML files remove the one link from the menu that leads to same page. </flowPara><flowPara
-         id="flowPara12470"
-         style="fill:#58595b;fill-opacity:1">For example, in the <flowSpan
-   style="fill:#2c9cfb;fill-opacity:1"
-   id="flowSpan12492">about-me.html</flowSpan> page you will remove the <flowSpan
-   style="fill:#2c9cfb;fill-opacity:1"
-   id="flowSpan12494">&lt;a href=&quot;about-me.html&quot;&gt;</flowSpan> link, in the <flowSpan
-   style="fill:#2c9cfb;fill-opacity:1"
-   id="flowSpan7368">books.html</flowSpan> page you will remove the <flowSpan
-   style="fill:#2c9cfb;fill-opacity:1"
-   id="flowSpan12498">&lt;a href=&quot;books.html&quot;&gt;</flowSpan> link. </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1">HTMLファイルで、同じページのリンクのaタグを削除します。</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1"
+         id="flowPara3495">例えば、<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#2c9cfb;fill-opacity:1"
+   id="flowSpan12492">about-me.html</flowSpan>では<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#2c9cfb;fill-opacity:1"
+   id="flowSpan12494">&lt;a href=&quot;about-me.html&quot;&gt;</flowSpan>を、<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#2c9cfb;fill-opacity:1"
+   id="flowSpan7368">books.html</flowSpan>では<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#2c9cfb;fill-opacity:1"
+   id="flowSpan12498">&lt;a href=&quot;books.html&quot;&gt;</flowSpan>を削除します。 </flowPara><flowPara
          id="flowPara12472"
-         style="fill:#58595b;fill-opacity:1" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1" /><flowPara
          id="flowPara12474"
-         style="fill:#58595b;fill-opacity:1" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1" /><flowPara
          id="flowPara12476"
-         style="fill:#58595b;fill-opacity:1" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1" /><flowPara
          id="flowPara12478"
-         style="fill:#58595b;fill-opacity:1" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1" /><flowPara
          id="flowPara12480"
-         style="fill:#58595b;fill-opacity:1" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1" /><flowPara
          id="flowPara12482"
-         style="fill:#58595b;fill-opacity:1" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1" /><flowPara
          id="flowPara12484"
-         style="fill:#58595b;fill-opacity:1" /></flowRoot><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1" /></flowRoot><rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#2c9cd8;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7406"
        width="354.30707"
@@ -350,7 +352,7 @@
            x="375.75757"
            y="284.68579" /></flowRegion><flowPara
          id="flowPara7425"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.75px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start">underline removed</flowPara></flowRoot><flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;text-align:start;writing-mode:lr-tb;text-anchor:start">アンダーラインを消す</flowPara></flowRoot><flowRoot
        xml:space="preserve"
        id="flowRoot7427"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:18.75px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -362,19 +364,21 @@
            x="292.92929"
            y="317.009" /></flowRegion><flowPara
          id="flowPara7433"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.75px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start">links appear light blue and underlined when you hover over them</flowPara></flowRoot><flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;text-align:start;writing-mode:lr-tb;text-anchor:start">マウスオーバーしたとき、青文字にしてアンダーラインをつける</flowPara></flowRoot><flowRoot
        xml:space="preserve"
        id="flowRoot7435"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:18.75px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.8,0,0,-0.8,-3.2323232,830.57687)"><flowRegion
+       transform="matrix(0.8,0,0,-0.8,-3.2323232,833.77687)"><flowRegion
          id="flowRegion7437"><rect
            id="rect7439"
-           width="280.80807"
-           height="49.494949"
+           width="320.20203"
+           height="53.535339"
            x="262.62625"
            y="368.52417" /></flowRegion><flowPara
          id="flowPara7441"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.75px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start">current page is yellow and clickable</flowPara></flowRoot><path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;text-align:start;writing-mode:lr-tb;text-anchor:start">表示しているページを黄色にする</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara3493">クリックできないようにする</flowPara></flowRoot><path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.32;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none"
        d="m 318.78788,602.82825 -32.72727,0.40404 -0.0752,8.45075"
        id="path7727"
@@ -390,14 +394,15 @@
        xml:space="preserve"
        id="flowRoot7927"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:18.75px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.8,0,0,-0.8,15.353535,850.77889)"><flowRegion
+       transform="matrix(0.8,0,0,-0.8,15.353535,834.77889)"><flowRegion
          id="flowRegion7929"><rect
            id="rect7931"
            width="175.09409"
            height="255.83035"
            x="60.60606"
            y="539.23126" /></flowRegion><flowPara
-         id="flowPara7935">File</flowPara><flowPara
+         id="flowPara7935"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic">ファイル</flowPara><flowPara
          id="flowPara7937"
          style="fill:#58595b;fill-opacity:1">about-me.html</flowPara><flowPara
          id="flowPara7941"
@@ -422,37 +427,37 @@
          style="fill:#58595b;fill-opacity:1" /></flowRoot><flowRoot
        xml:space="preserve"
        id="flowRoot7951"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:18.75px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.93;"
-       transform="matrix(0.8,0,0,-0.8,-42.828283,854.41525)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:18.75px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.93000034;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.8,0,0,-0.8,-42.828283,838.41525)"><flowRegion
          id="flowRegion7953"><rect
            id="rect7955"
            width="250.45427"
            height="428.92377"
            x="257.57574"
-           y="543.27167"
-           style="" /></flowRegion><flowPara
-         id="flowPara7957">Menu code before editing</flowPara><flowPara
+           y="543.27167" /></flowRegion><flowPara
+         id="flowPara7957"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic">変更前</flowPara><flowPara
          id="flowPara7967"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1;">&lt;ul&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1">&lt;ul&gt;</flowPara><flowPara
          id="flowPara7969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1;">&lt;li&gt;&lt;a href=&quot;about-me.html&quot;&gt;About me&lt;/a&gt;&lt;/li&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1">&lt;li&gt;&lt;a href=&quot;about-me.html&quot;&gt;About me&lt;/a&gt;&lt;/li&gt;</flowPara><flowPara
          id="flowPara7971"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1;">&lt;li&gt;&lt;a href=&quot;books.html&quot;&gt;My Favourite Books&lt;/a&gt;&lt;/li&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1">&lt;li&gt;&lt;a href=&quot;books.html&quot;&gt;My Favourite Books&lt;/a&gt;&lt;/li&gt;</flowPara><flowPara
          id="flowPara7973"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1;">&lt;li&gt;&lt;a href=&quot;family.html&quot;&gt;My Family&lt;/a&gt;&lt;/li&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1">&lt;li&gt;&lt;a href=&quot;family.html&quot;&gt;My Family&lt;/a&gt;&lt;/li&gt;</flowPara><flowPara
          id="flowPara7975"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1;">&lt;li&gt;&lt;a href=&quot;pets.html&quot;&gt;My pets</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1">&lt;li&gt;&lt;a href=&quot;pets.html&quot;&gt;My pets</flowPara><flowPara
          id="flowPara7977"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1;">&lt;/a&gt;&lt;/li&gt;</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1">&lt;/a&gt;&lt;/li&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1"
          id="flowPara8037">&lt;/ul&gt;</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1"
          id="flowPara8101" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1"
          id="flowPara8111">&lt;li&gt;&lt;a href=&quot;books.html&quot;&gt;My Favourite Books&lt;/a&gt;&lt;/li&gt;</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1"
          id="flowPara8113" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1"
          id="flowPara8115" /></flowRoot><flowRoot
        xml:space="preserve"
        id="flowRoot7979"
@@ -467,7 +472,7 @@
        xml:space="preserve"
        id="flowRoot7987"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:18.75px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.8,0,0,-0.8,-49.42605,878.45956)"><flowRegion
+       transform="matrix(0.8,0,0,-0.8,-49.42605,862.45956)"><flowRegion
          id="flowRegion7989"><rect
            id="rect7991"
            width="231.30449"
@@ -476,7 +481,7 @@
            y="572.86041"
            style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara7993"
-         style="fill:#000000;fill-opacity:1">Menu code after editing</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#000000;fill-opacity:1">変更後</flowPara><flowPara
          id="flowPara7995"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1">&lt;ul&gt;</flowPara><flowPara
          id="flowPara7997"
@@ -514,7 +519,7 @@
        xml:space="preserve"
        id="flowRoot8126"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:18.75px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.8,0,0,-0.8,12.043479,847.67332)"><flowRegion
+       transform="matrix(0.8,0,0,-0.8,12.043479,831.67332)"><flowRegion
          id="flowRegion8128"><rect
            id="rect8130"
            width="163.56308"
@@ -534,29 +539,29 @@
            x="79.995918"
            y="854.5155" /></flowRegion><flowPara
          id="flowPara8156"
-         style="fill:#58595b;fill-opacity:1">Do this for all the files in your site (for example family.html and pets.html). </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1">他のページでも同じ変更をします。 (例えばfamily.html や pets.html など)。 </flowPara><flowPara
          id="flowPara8168"
-         style="fill:#58595b;fill-opacity:1">Notice that after you make this change the menu entry is no longer clickable.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1">aタグを削除したリンクはクリックできなくなります。</flowPara><flowPara
          id="flowPara8158"
-         style="fill:#58595b;fill-opacity:1" /></flowRoot><rect
-       style="opacity:0.93000022;fill:#2c9cfb;fill-opacity:0.98431373;stroke:#2c9cd8;stroke-width:0.31999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1" /></flowRoot><rect
+       style="opacity:0.93000034;fill:#2c9cfb;fill-opacity:0.98431373;stroke:#2c9cd8;stroke-width:0.31999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8170"
        width="0.57139939"
        height="241.13057"
        x="361.69583"
-       y="-415.40735"
+       y="-399.40729"
        transform="scale(1,-1)" /><rect
-       style="opacity:0.93000028;fill:#2c9cfb;fill-opacity:0.98431373;stroke:#2c9cd8;stroke-width:0.31999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.93000034;fill:#2c9cfb;fill-opacity:0.98431373;stroke:#2c9cd8;stroke-width:0.31999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8172"
        width="0.57139939"
        height="243.41617"
        x="153.99214"
-       y="-415.12164"
+       y="-399.12158"
        transform="scale(1,-1)" /><rect
        style="opacity:0.93000034;fill:#2c9cfb;fill-opacity:0.98431373;stroke:#2c9cd8;stroke-width:0.32483894;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8174"
        width="481.01053"
        height="0.56656045"
        x="66.856148"
-       y="-154.27536"
+       y="-144.67532"
        transform="scale(1,-1)" /></g></svg>

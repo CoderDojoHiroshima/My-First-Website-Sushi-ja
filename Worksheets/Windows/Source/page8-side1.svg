@@ -120,16 +120,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1550"
-     inkscape:window-height="756"
+     inkscape:window-width="1463"
+     inkscape:window-height="851"
      id="namedview4101"
      showgrid="false"
      inkscape:zoom="0.99"
-     inkscape:cx="694.02813"
-     inkscape:cy="750.20986"
-     inkscape:window-x="1373"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:cx="390.77737"
+     inkscape:cy="790.6139"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="g4107" /><g
      id="g4107"
      inkscape:groupmode="layer"
@@ -186,13 +186,13 @@
 <text
        transform="scale(1,-1)"
        id="text4141"
-       x="404.05731"
+       x="375.2572"
        y="-745.50616"><tspan
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:'League Gothic';-inkscape-font-specification:LeagueGothic;writing-mode:lr-tb;fill:#2c9cfb;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;writing-mode:lr-tb;fill:#2c9cfb;fill-opacity:1;fill-rule:nonzero;stroke:none"
          sodipodi:role="line"
          id="tspan4143"
-         x="404.05731"
-         y="-745.50616">IDENTIFY THE MENU</tspan></text>
+         x="375.2572"
+         y="-745.50616">メニューの識別</tspan></text>
 <text
        transform="scale(1,-1)"
        id="text4145"
@@ -232,13 +232,15 @@
        d="m 0,10.652 595.281,0 0,3.432 -595.281,0 0,-3.432 z"
        style="fill:#2c9cfb;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path4237" /><text
-       transform="matrix(1,0,0,-1,226.1895,790.229)"
-       id="text4251"><tspan
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:League Gothic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28;writing-mode:lr;-inkscape-font-specification:LeagueGothic"
-         x="0 13.552 23.128 27.44 35.868 41.132 51.24 60.844 69.692 74.004 88.172 96.768 106.96 116.564 121.828 130.676"
-         y="0"
+       transform="scale(1,-1)"
+       id="text4251"
+       x="166.98927"
+       y="-791.82898"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          sodipodi:role="line"
-         id="tspan4253">MY FIRST WEBSITE</tspan></text>
+         id="tspan4253"
+         x="166.98927"
+         y="-791.82898">はじめてのWebサイト</tspan></text>
 <g
        id="g4275"
        transform="translate(-21.395349,13.432558)"><g
@@ -289,10 +291,10 @@
            height="109.09091"
            x="69.696968"
            y="199.8373" /></flowRegion><flowPara
-         id="flowPara10605"
-         style="fill:#58595b;fill-opacity:1">If we have a second unordered list within our page it will be formatted in the same way as the top menu - unless we can distinguish between them.</flowPara><flowPara
          id="flowPara10607"
-         style="fill:#58595b;fill-opacity:1">The web page below shows what it looks like when you add a second unordered list to the page.</flowPara></flowRoot><image
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1">ページにもう一つリストを追加したとき、特に何も区別しなければ、メニューと同じ見た目になってしまいます。</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1"
+         id="flowPara3438">以下の例では、もう一つのリストがメニューと同じ見た目になっています。</flowPara></flowRoot><image
        y="-588.48505"
        x="80.808083"
        id="image10756"
@@ -400,4 +402,5 @@
            height="41.414143"
            x="471.71716"
            y="277.61508" /></flowRegion><flowPara
-         id="flowPara11020">Rules applying to ul</flowPara></flowRoot></g></svg>
+         id="flowPara11020"
+         style="-inkscape-font-specification:IPAPGothic;font-family:IPAPGothic;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">ul要素のルール</flowPara></flowRoot></g></svg>

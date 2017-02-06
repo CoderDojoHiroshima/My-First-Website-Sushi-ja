@@ -130,16 +130,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1570"
-     inkscape:window-height="754"
+     inkscape:window-width="1463"
+     inkscape:window-height="851"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="1.2303658"
-     inkscape:cx="634.7073"
-     inkscape:cy="907.67323"
-     inkscape:window-x="1615"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:cx="411.72586"
+     inkscape:cy="777.6306"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="g10" /><g
      id="g10"
      inkscape:groupmode="layer"
@@ -202,13 +202,13 @@
 <text
        transform="scale(1,-1)"
        id="text138"
-       x="400.15619"
+       x="372.95609"
        y="-797.53058"><tspan
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:'League Gothic';-inkscape-font-specification:LeagueGothic;writing-mode:lr-tb;fill:#2c9cfb;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;writing-mode:lr-tb;fill:#2c9cfb;fill-opacity:1;fill-rule:nonzero;stroke:none"
          sodipodi:role="line"
          id="tspan140"
-         x="400.15619"
-         y="-797.53058">IDENTIFY THE MENU</tspan></text>
+         x="372.95609"
+         y="-797.53058">メニューの識別</tspan></text>
 <text
        transform="scale(1,-1)"
        id="text142"
@@ -365,24 +365,15 @@
            x="64.208549"
            y="137.18756" /></flowRegion><flowPara
          id="flowPara4892"
-         style="fill:#58595b;fill-opacity:1">We need to identify the menu by giving it a class attribute.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1">見た目が同じになることを避けるために、クラスで識別する必要があります。</flowPara><flowPara
          id="flowPara4894"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c9cfb;fill-opacity:1">&lt;ul class=&quot;menu&quot;&gt; ... &lt;/ul&gt;</flowPara><flowPara
-         id="flowPara4896"><flowSpan
-   style="fill:#58595b;fill-opacity:1"
-   id="flowSpan4908">Once we have done this we can modify the CSS stylesheet so that the menu formatting rules are only applied to the </flowSpan><flowSpan
-   style="fill:#2c9cfb;fill-opacity:1"
-   id="flowSpan4902">ul </flowSpan><flowSpan
-   style="fill:#58595b;fill-opacity:1"
-   id="flowSpan4910">elements which have a</flowSpan><flowSpan
-   style="fill:#2c9cfb;fill-opacity:1"
-   id="flowSpan4904"> class</flowSpan><flowSpan
-   style="fill:#58595b;fill-opacity:1"
-   id="flowSpan4912"> selector with a value of</flowSpan><flowSpan
-   style="fill:#2c9cfb;fill-opacity:1"
-   id="flowSpan4906"> menu</flowSpan>.</flowPara><flowPara
-         id="flowPara4898"
-         style="fill:#58595b;fill-opacity:1">Here’s how:</flowPara></flowRoot><image
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c9cfb;fill-opacity:1">&lt;ul class=&quot;menu&quot;&gt; ... &lt;/ul&gt;</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#58595b;fill-opacity:1"
+         id="flowPara3479">HTMLが修正できたらCSSも修正します。<flowSpan
+   id="flowSpan3471"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#2c9cfb;fill-opacity:1">menu</flowSpan>クラスの<flowSpan
+   style="fill:#2c9cfb"
+   id="flowSpan3497">ul</flowSpan>にだけメニューの見た目が反映されるように変更しましょう。</flowPara></flowRoot><image
        y="-636.98456"
        x="67.212845"
        id="image4922"
@@ -516,6 +507,9 @@
            height="100.57471"
            x="331.60919"
            y="454.66141" /></flowRegion><flowPara
-         id="flowPara5474">rules applying to <flowSpan
-   style="fill:#2c9cfb;fill-opacity:1"
-   id="flowSpan5476">ul.menu</flowSpan></flowPara></flowRoot></g></svg>
+         id="flowPara3499"
+         style="fill:#2c9cfb;fill-opacity:1">ul.menu<flowSpan
+   style="fill:#58595b"
+   id="flowSpan3507">に</flowSpan></flowPara><flowPara
+         style="fill:#58595b;fill-opacity:1"
+         id="flowPara3505">反映されるルール</flowPara></flowRoot></g></svg>
