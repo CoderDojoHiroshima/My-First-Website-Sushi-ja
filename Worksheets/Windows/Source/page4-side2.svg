@@ -536,7 +536,7 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c9cfb;fill-opacity:1"
    id="flowSpan12454">body</flowSpan>要素に背景画像を追加します。また、h1要素にも新しい見た目のルールを追加します。<flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2c9cfb;fill-opacity:1"
-   id="flowSpan12458">simple.css</flowSpan>の中身が以下のようになるように修正してください。</flowPara></flowRoot><flowRoot
+   id="flowSpan12458">home.css</flowSpan>の中身が以下のようになるように修正してください。</flowPara></flowRoot><flowRoot
        xml:space="preserve"
        id="flowRoot12460"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -638,13 +638,13 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#2c9cfb;fill-opacity:1"
    id="flowSpan24726">index.html</flowSpan>をブラウザで開いて、<flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#2c9cfb;fill-opacity:1"
-   id="flowSpan24724">simple.css</flowSpan>をテキストエディタで開き、</flowPara><flowPara
+   id="flowSpan24724">home.css</flowSpan>をテキストエディタで開き、</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1"
          id="flowPara3526">２つを横に並べます。</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1"
          id="flowPara24722"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;fill:#2c9cfb;fill-opacity:1"
-   id="flowSpan24728">simple.css</flowSpan>のファイルの中には次のように書かれています。</flowPara><flowPara
+   id="flowSpan24728">home.css</flowSpan>のファイルの中には次のように書かれています。</flowPara><flowPara
          id="flowPara24720"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:IPAPGothic;-inkscape-font-specification:IPAPGothic;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;fill-opacity:1" /></flowRoot><flowRoot
        xml:space="preserve"
